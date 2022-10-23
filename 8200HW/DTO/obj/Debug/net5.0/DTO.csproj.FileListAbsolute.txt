@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\8200 shiraChadad\8200HW\DTO\bin\Debug\net5.0\DTO.deps.json
+C:\Users\user\Desktop\8200 shiraChadad\8200HW\DTO\bin\Debug\net5.0\DTO.dll
+C:\Users\user\Desktop\8200 shiraChadad\8200HW\DTO\bin\Debug\net5.0\ref\DTO.dll
+C:\Users\user\Desktop\8200 shiraChadad\8200HW\DTO\bin\Debug\net5.0\DTO.pdb
+C:\Users\user\Desktop\8200 shiraChadad\8200HW\DTO\obj\Debug\net5.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\8200 shiraChadad\8200HW\DTO\obj\Debug\net5.0\DTO.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\8200 shiraChadad\8200HW\DTO\obj\Debug\net5.0\DTO.AssemblyInfo.cs
+C:\Users\user\Desktop\8200 shiraChadad\8200HW\DTO\obj\Debug\net5.0\DTO.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\8200 shiraChadad\8200HW\DTO\obj\Debug\net5.0\DTO.dll
+C:\Users\user\Desktop\8200 shiraChadad\8200HW\DTO\obj\Debug\net5.0\ref\DTO.dll
+C:\Users\user\Desktop\8200 shiraChadad\8200HW\DTO\obj\Debug\net5.0\DTO.pdb
+C:\Users\user\Desktop\8200 shiraChadad\8200HW\DTO\obj\Debug\net5.0\DTO.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\8200 shiraChadad\8200HW\DTO\bin\Debug\net5.0\DAL.dll
+C:\Users\user\Desktop\8200 shiraChadad\8200HW\DTO\bin\Debug\net5.0\DAL.pdb
+C:\Users\user\Desktop\8200 shiraChadad\8200HW\DTO\obj\Debug\net5.0\DTO.csproj.CopyComplete

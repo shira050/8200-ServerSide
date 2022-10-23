@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\8200 shiraChadad\8200HW\BL\bin\Debug\net5.0\BL.deps.json
+C:\Users\user\Desktop\8200 shiraChadad\8200HW\BL\bin\Debug\net5.0\BL.dll
+C:\Users\user\Desktop\8200 shiraChadad\8200HW\BL\bin\Debug\net5.0\ref\BL.dll
+C:\Users\user\Desktop\8200 shiraChadad\8200HW\BL\bin\Debug\net5.0\BL.pdb
+C:\Users\user\Desktop\8200 shiraChadad\8200HW\BL\bin\Debug\net5.0\DAL.dll
+C:\Users\user\Desktop\8200 shiraChadad\8200HW\BL\bin\Debug\net5.0\DTO.dll
+C:\Users\user\Desktop\8200 shiraChadad\8200HW\BL\bin\Debug\net5.0\DAL.pdb
+C:\Users\user\Desktop\8200 shiraChadad\8200HW\BL\bin\Debug\net5.0\DTO.pdb
+C:\Users\user\Desktop\8200 shiraChadad\8200HW\BL\obj\Debug\net5.0\BL.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\8200 shiraChadad\8200HW\BL\obj\Debug\net5.0\BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\8200 shiraChadad\8200HW\BL\obj\Debug\net5.0\BL.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\8200 shiraChadad\8200HW\BL\obj\Debug\net5.0\BL.AssemblyInfo.cs
+C:\Users\user\Desktop\8200 shiraChadad\8200HW\BL\obj\Debug\net5.0\BL.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\8200 shiraChadad\8200HW\BL\obj\Debug\net5.0\BL.csproj.CopyComplete
+C:\Users\user\Desktop\8200 shiraChadad\8200HW\BL\obj\Debug\net5.0\BL.dll
+C:\Users\user\Desktop\8200 shiraChadad\8200HW\BL\obj\Debug\net5.0\ref\BL.dll
+C:\Users\user\Desktop\8200 shiraChadad\8200HW\BL\obj\Debug\net5.0\BL.pdb
